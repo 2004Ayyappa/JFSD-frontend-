@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/JFSD-frontend-/static/css/main.ad51b4ba.css",
-    "main.js": "/JFSD-frontend-/static/js/main.a0a3398b.js",
+    "main.js": "/JFSD-frontend-/static/js/main.9375b199.js",
     "static/js/488.38933adb.chunk.js": "/JFSD-frontend-/static/js/488.38933adb.chunk.js",
     "static/media/_c35eeb24-a0ab-4934-b344-60864f712950.jpeg": "/JFSD-frontend-/static/media/_c35eeb24-a0ab-4934-b344-60864f712950.e8d15a880691edcfdd1d.jpeg",
     "static/media/logo.png": "/JFSD-frontend-/static/media/logo.109ba03802d4d47a18aa.png",
     "index.html": "/JFSD-frontend-/index.html",
     "main.ad51b4ba.css.map": "/JFSD-frontend-/static/css/main.ad51b4ba.css.map",
-    "main.a0a3398b.js.map": "/JFSD-frontend-/static/js/main.a0a3398b.js.map",
+    "main.9375b199.js.map": "/JFSD-frontend-/static/js/main.9375b199.js.map",
     "488.38933adb.chunk.js.map": "/JFSD-frontend-/static/js/488.38933adb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad51b4ba.css",
-    "static/js/main.a0a3398b.js"
+    "static/js/main.9375b199.js"
   ]
 }
