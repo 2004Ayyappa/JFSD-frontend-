@@ -2,7 +2,8 @@
   "name": "sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2004Ayyappa.github.io/JFSD-frontend-",
+    "proxy": "https://student-extracurricular-activities.up.railway.app",
+  "homepage": "https://2004ayyappa.github.io/JFSD-frontend-",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
