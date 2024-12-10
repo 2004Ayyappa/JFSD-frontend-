@@ -45,6 +45,7 @@ const [username, setUsername] = useState('');
       {/* Navigation Bar */}
       <nav>
         <div className="container">
+        <img src={logo} alt="Logo" />
           <div className="logo">Student Extracurricular Activities Management System</div>
           <ul>
           <li><a href="/" className="nav-link">Home</a></li>
