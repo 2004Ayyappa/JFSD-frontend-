@@ -2,17 +2,20 @@
   "name": "sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2004Ayyappa.github.io/SampleReactProject",
+  "proxy": "https://student-extracurricular-activities.up.railway.app",
+  "homepage": "https://2004Ayyappa.github.io/JFSD-frontend-",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1",
+    "react-toastify": "^10.0.6",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" ,
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
