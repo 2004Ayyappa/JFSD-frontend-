@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/SampleReactProject/static/css/main.f855e6bc.css",
-    "main.js": "/SampleReactProject/static/js/main.a7ff5ccd.js",
-    "static/js/488.38933adb.chunk.js": "/SampleReactProject/static/js/488.38933adb.chunk.js",
-    "static/media/logo.svg": "/SampleReactProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SampleReactProject/index.html",
-    "main.f855e6bc.css.map": "/SampleReactProject/static/css/main.f855e6bc.css.map",
-    "main.a7ff5ccd.js.map": "/SampleReactProject/static/js/main.a7ff5ccd.js.map",
-    "488.38933adb.chunk.js.map": "/SampleReactProject/static/js/488.38933adb.chunk.js.map"
+    "main.css": "/JFSD-frontend-/static/css/main.ad51b4ba.css",
+    "main.js": "/JFSD-frontend-/static/js/main.a0a3398b.js",
+    "static/js/488.38933adb.chunk.js": "/JFSD-frontend-/static/js/488.38933adb.chunk.js",
+    "static/media/_c35eeb24-a0ab-4934-b344-60864f712950.jpeg": "/JFSD-frontend-/static/media/_c35eeb24-a0ab-4934-b344-60864f712950.e8d15a880691edcfdd1d.jpeg",
+    "static/media/logo.png": "/JFSD-frontend-/static/media/logo.109ba03802d4d47a18aa.png",
+    "index.html": "/JFSD-frontend-/index.html",
+    "main.ad51b4ba.css.map": "/JFSD-frontend-/static/css/main.ad51b4ba.css.map",
+    "main.a0a3398b.js.map": "/JFSD-frontend-/static/js/main.a0a3398b.js.map",
+    "488.38933adb.chunk.js.map": "/JFSD-frontend-/static/js/488.38933adb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a7ff5ccd.js"
+    "static/css/main.ad51b4ba.css",
+    "static/js/main.a0a3398b.js"
   ]
 }
